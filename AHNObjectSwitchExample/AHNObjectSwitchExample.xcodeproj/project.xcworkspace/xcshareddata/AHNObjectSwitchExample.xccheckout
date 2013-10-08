@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B91F433-C5EA-49D3-835B-B3C509D3ACB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AHNObjectSwitchExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>258910A1-3CBA-4FEE-80A0-3B9F07B5C222</key>
+		<string>https://github.com/Naglbagl/ahnObjectSwitch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AHNObjectSwitchExample/AHNObjectSwitchExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>258910A1-3CBA-4FEE-80A0-3B9F07B5C222</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Naglbagl/ahnObjectSwitch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>258910A1-3CBA-4FEE-80A0-3B9F07B5C222</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>258910A1-3CBA-4FEE-80A0-3B9F07B5C222</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ahnObjectSwitch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
