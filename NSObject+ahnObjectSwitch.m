@@ -1,6 +1,6 @@
 //
 //  NSObject+ahnNSObjectSwitch.m
-//  stringSwitch
+//  objectSwitch
 //
 //  Created by Alexander Nagl on 7/17/13.
 //  Copyright (c) 2013 Alexander Nagl.
